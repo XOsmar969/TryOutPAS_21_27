@@ -7,8 +7,8 @@
     android:orientation="vertical">
 
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:text="Dashboard Fragment"
         android:textSize="24sp"
-        android:text="BrodiIreng_"/>
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
 </LinearLayout>
